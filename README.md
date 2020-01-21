@@ -14,6 +14,14 @@ A new generation firewall can be easily accessed from a single console, unlike t
 - Capability to implement Role-based Access <br>
 New generation firewalls have an inherent ability to detect user identity. It can also work with different user roles and limit the scope of access for an individual and/or group. This feature helps the organizations to set role-based access to certain portions of their data and its content. Organizations can also make some of their data public and keep the rest of the confidential data with themselves.
 
-# Performance Figures
-- Upto 10Gbps
-- 
+# Features
+
+# Packaging
+- < 50 Mbps
+- 50 Mbps - 500 Mbps
+- 500 Mbps - 1 Gbps
+- 1 Gbps - 5 Gbps
+
+# Comparison
+
+# Refs
